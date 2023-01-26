@@ -56,3 +56,4 @@ function script:logerror([string]$message) {
     #reset colors for older package to at return to default after error message on a compilation error
     [console]::ResetColor()
 }
+platyPS
